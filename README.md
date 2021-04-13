@@ -1,6 +1,6 @@
-PUBLIC RELEASE AFTER FINISHING THE VIDEO AND TESTING EVERYTHING
-
-VIDEO
+# Note : Abandoned Project
+buy a x86 platform refurbished pc instead.
+may be soon possible since apple will provide egpu support for they arm macbook.
 
 # Francais
 Builds basés sur Ubuntu Bionic arm64 pour rockpro64 pour ajouter le support de cartes Nvidia sur le slot PCIE.
